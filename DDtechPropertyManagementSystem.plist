@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string></string>
+            <string>http://www.ddtech.com.cn:7778/apk/apkImg/icon512.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string></string>
+            <string>http://www.ddtech.com.cn:7778/apk/apkImg/icon57.png</string>
           </dict>
         </array>
         <key>metadata</key>
